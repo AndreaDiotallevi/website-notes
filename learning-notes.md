@@ -1,4 +1,4 @@
-# Learning notes collected while building my personal website
+# Learning notes while building my personal website
 
 #### Full content page, without "load more" button
 
